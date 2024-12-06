@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.greetingcard"
+    namespace = "com.example.diceroller"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.greetingcard"
-        minSdk = 30
+        applicationId = "com.example.diceroller"
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
