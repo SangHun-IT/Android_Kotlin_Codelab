@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="imgName_1">Mona Lisa</string>
+    <string name="imgName_2">Starry Night</string>
+    <string name="imgName_3">The Scream</string>
+    <string name="imgName_4">Guernica</string>
+    <string name="imgName_5">The Persistence of Memory</string>
+    <string name="imgName_6">Three Musicians</string>
+    <string name="imgName_7">A Sunday Afternoon on the Island of La Grande Jatte</string>
+    <string name="imgName_8">Girl with a Pearl Earring</string>
+    <string name="imgName_9">Whistler\'s Mother</string>
+    <string name="imgName_10">Portrait de L\'artiste Sans Barbe</string>
+    <string name="imgPainter_1">Leonardo da Vinci</string>
+    <string name="imgPainter_2">Vincent van Gogh</string>
+    <string name="imgPainter_3">Edvard Munch</string>
+    <string name="imgPainter_4">Pablo Picasso</string>
+    <string name="imgPainter_5">Salvador Dali</string>
+    <string name="imgPainter_6">Pablo Picasso</string>
+    <string name="imgPainter_7">Georges Seurat</string>
+    <string name="imgPainter_8">Johannes Vermeer</string>
+    <string name="imgPainter_9">James McNeil Whistler</string>
+    <string name="imgPainter_10">Vincent van Gogh</string>
+    <string name="imgYear_1">1519</string>
+    <string name="imgYear_2">1889</string>
+    <string name="imgYear_3">1893</string>
+    <string name="imgYear_4">1937</string>
+    <string name="imgYear_5">1931</string>
+    <string name="imgYear_6">1921</string>
+    <string name="imgYear_7">1884</string>
+    <string name="imgYear_8">1665</string>
+    <string name="imgYear_9">1871</string>
+    <string name="imgYear_10">1889</string>
+</resources>
